@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# #000000 Digital Dark Age
 
-You can use the [editor on GitHub](https://github.com/phillipdavidstearns/-000000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A weekly seminar where artist in residence Phillip David Stearns, shares his research exploring present and future issues in the post-internet age. Topics will change weekly following a trajectory through tactical media, the deep, dark web, encryption and cyber warfare, IoT, computer viruses and bot nets, and potential design vectors based on generative principles and tropes within the culture of technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>One can feel it behind the eyes like the fog before a migraine sets in. The buzz words humming like fluorescent lights, tumbling from the mouths of talking heads like water from the puckered lips of a stone cherub. Disruptive innovation, exit strategies, the New Normal, Post-fact politics, Fake News, Alternative Facts.
+>
+>In the wake of the referendum on Brexit and the election of US President Donald J. Trump set against the backdrop of a European Union visibly in the grips of a sweeping wave of Nationalism, truth seems to be in thumbs of the Tweeter. In light of an apparent and culturally pervasive lack of regard for facts, my research will focus on reworking the notion of the Digital Dark Ages, a hypothetical future condition where history and knowledge become lost in an amnesia of techno-obsolescence.
 
-### Markdown
+From internet tutorials, click bait, twitter bots and algorithmic content filtration, my source material will be drawn from the agentive forces (ghosts within the machine) acting through the internet. Movements in the arts, including but not limited to Net Art, Tactical Media, Post-Internet Art, Glitch and Additivism, will set the background for my conceptual development and creative output.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phillipdavidstearns/-000000/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I hope to encourage students to work with the material I present, to either incorporate the ideas into their present work, or to develop their own projects. The overarching goal is to develop frameworks for employing art and design in bringing light to our situation. The common goal for us all should be both to address understated or overlooked aspects of certain Technology oriented cultural practices, as well as imagining and prototyping potential work arounds for present and imagined future systems of population control.
