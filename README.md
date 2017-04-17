@@ -19,4 +19,4 @@ This repo serves as an archive of cource material and collaborative research exp
 
 A course wiki page will serve as the primary interface between the class and the public. Additional class materials can found there along with documentation of student projects.
 
-* [Course Kiki](https://github.com/phillipdavidstearns/-000000/wiki)
+* [Course Wiki](https://github.com/phillipdavidstearns/-000000/wiki)
