@@ -7,7 +7,7 @@ In the wake of the referendum on Brexit and the election of US President Donald 
 
 ## Contents:
 
-This repo serves as an archive of cource material and collaborative research expanding the notion of the Digital Dark Age not as some hypothetical future state, but rather as our present historical moment.
+This is a growing collection of course work and collaborative research expanding the notion of the Digital Dark Age not as some hypothetical future state, but rather as our present historical moment.
 
 * [Lecture Resources](https://github.com/phillipdavidstearns/-000000/tree/master/lectureResources) - contains materials, images, keynotes presentations, and other material presented during the seminar.
 
