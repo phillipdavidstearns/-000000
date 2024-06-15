@@ -1,4 +1,4 @@
-# -000000
+# [\#000000](https://github.com/phillipdavidstearns/-000000)
 #000000 Digital Dark Age - HSD FB D/IRAA Summer 2017
 
 One can feel it behind the eyes like the fog before a migraine sets in. The buzz words humming like fluorescent lights, tumbling from the mouths of talking heads like water from the puckered lips of a stone cherub. Disruptive innovation, exit strategies, the New Normal, Post-fact politics, Fake News, Alternative Facts.
